@@ -1,0 +1,23 @@
+title,h1,h2 {
+	font-weight: bold;
+}
+
+th {
+	background-color: #03178F;
+	color: #FFFFFF;
+	font-family: Calibri;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.ascend {
+	background: url(ascend.png) #8888DD no-repeat right;
+}
+
+.descend {
+	background: url(descend.png) #8888DD no-repeat right;
+}
+
+.alternate {
+	background-color: #DDDDDD;
+}
